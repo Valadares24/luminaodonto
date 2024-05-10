@@ -901,9 +901,10 @@ section
 }
 .icon_container
 {
-	width: 61px;
-	height: 61px;
-	border-radius: 50%;
+	/* width: 61px;
+	height: 61px; */
+	border-radius: 50px;
+	padding: 10px;
 	background: #6bdbd2;
 }
 .icon
